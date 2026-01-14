@@ -1,0 +1,2 @@
+Tulevikus plaanin kasutada GitHubi õppe- ja tööprojektide salvestamiseks ning meeskonnatööks.
+GitHub aitab mul jälgida muudatusi ja hallata koodi versioone.
